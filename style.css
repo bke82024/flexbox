@@ -45,7 +45,7 @@ img {
   width: 300px;
 }
 h1 {
-  color: rgb(126, 0, 0);
+  color: rgb(90, 0, 0);
   font-size: 50px;
 }
 
@@ -59,7 +59,7 @@ h2 {
 }
 
 .label {
-  color: rgb(126, 0, 0);
+  color: rgb(90, 0, 0);
   font-size: 20px;
   font-weight: 3px;
 }
@@ -73,8 +73,4 @@ h2 {
 }
 .description {
   margin-top: 30px;
-}
-
-.info {
-  color: rgb(126, 0, 0);
 }
